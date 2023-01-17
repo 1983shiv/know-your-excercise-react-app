@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React, { useEffect, useState } from "react";
 import { Box, Button, Stack, TextField, Typography } from "@mui/material";
 import { bodyPartsList } from "../data/parts";
@@ -74,7 +76,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
         <Button
           className="search-btn"
           sx={{
-            bgcolor: "#FF2625",
+            bgcolor: "#5d5df9",
             color: "#fff",
             textTransform: "none",
             width: { lg: "173px", xs: "80px" },

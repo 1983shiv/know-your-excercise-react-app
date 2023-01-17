@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import { Typography, Stack, Button } from "@mui/material";
 
@@ -50,7 +52,7 @@ const Detail = ({ exerciseDetail }) => {
           <Stack key={item.name} direction="row" gap="24px" alignItems="center">
             <Button
               sx={{
-                background: "#FFF2DB",
+                background: "trasparent",
                 borderRadius: "50%",
                 width: "100px",
                 height: "100px",
