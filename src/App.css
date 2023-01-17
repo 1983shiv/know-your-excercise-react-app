@@ -54,8 +54,8 @@ body {
 }
 
 .gradient-text {
-
-
+    margin-top: -200px;
+    text-align: right;
     font-size: 200px;
     font-weight: 800;
     background: -webkit-linear-gradient(#eee, #333);
@@ -69,15 +69,12 @@ body {
   background-clip: padding-box;
   -webkit-background-clip: padding-box;
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(to right, #ff0000, #ffff00); */
+  background-image: linear-gradient(to right, #ff0000, #ffff00); 
+  color="#FF2625"
+  */
 }
 
-.transparent-text{
-  
-  background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.8911939775910365) 35%, rgba(0,212,255,1) 100%);
-  /* 
-      color="#FF2625" */
-}
+
 
 .hero-banner-img {
   position: absolute;
