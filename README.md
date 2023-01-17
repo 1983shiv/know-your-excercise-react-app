@@ -16,10 +16,10 @@
 #### want to check on your local computer, just follow commands and you are good to start
 
 clone the repository to your computer
-`git clone https://github.com/1983shiv/know-your-excercise`
+`git clone https://github.com/1983shiv/know-your-excercise-react-app.git`
 
 go to tik-tac-to directory
-`cd know-your-excercise`
+`cd know-your-excercise-react-app`
 
 install necessary dependancies
 `npm install`
